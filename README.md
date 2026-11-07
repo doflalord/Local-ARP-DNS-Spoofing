@@ -26,7 +26,7 @@ A Python-based educational tool designed for local network analysis and lab envi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Local-ARP-DNS-Spoofer.git
+   git clone https://github.com/doflalord/Local-ARP-DNS-Spoofer.git
    cd Local-ARP-DNS-Spoofer
    ```
 
