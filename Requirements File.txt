@@ -1,0 +1,8 @@
+# ==========================================
+# Local ARP & DNS Spoofer Dependencies
+# ==========================================
+# These packages are required to run the network 
+# interception scripts and terminal styling features.
+
+scapy>=2.5.0
+colorama>=0.4.6
